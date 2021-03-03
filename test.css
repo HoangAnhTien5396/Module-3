@@ -1,0 +1,18 @@
+div {
+    border-style: solid;
+    width: 500px;
+    height: 500px;
+    background-image: url("a.jpg");
+}
+h1 {
+    text-align: center;
+    color : blue;
+}
+
+h5 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+a {
+    color : black;
+}
